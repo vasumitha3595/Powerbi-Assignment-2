@@ -5,19 +5,14 @@
 
 ### Page 1 -- Executive Overview
 
-Add your screenshot as `images/page1.png`.
 
-``` markdown
-![Dashboard Page 1](images/page1.png)
-```
+<img width="892" height="505" alt="image" src="https://github.com/user-attachments/assets/38bf57b7-e43c-4fb0-b1d3-7560b3cf2f51" />
+
 
 ### Page 2 -- Geographic Analysis
 
-Add your screenshot as `images/page2.png`.
+<img width="931" height="515" alt="image" src="https://github.com/user-attachments/assets/4684821c-17b5-4057-9411-9ca80b818946" />
 
-``` markdown
-![Dashboard Page 2](images/page2.png)
-```
 
 ## 📌 Overview
 
